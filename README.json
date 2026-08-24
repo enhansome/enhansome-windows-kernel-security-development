@@ -15912,7 +15912,7 @@
             "last_commit": "2021-03-15T12:43:53Z",
             "owner": "wbenny",
             "repo": "hvpp",
-            "stars": 1343
+            "stars": 1344
           }
         },
         {
@@ -21273,7 +21273,7 @@
             "archived": false,
             "id": 28822114,
             "language": "C#",
-            "last_commit": "2026-08-24T12:49:44Z",
+            "last_commit": "2026-08-24T13:50:16Z",
             "owner": "justcoding121",
             "repo": "titanium-web-proxy",
             "stars": 1987
@@ -21606,7 +21606,7 @@
             "last_commit": "2026-08-18T14:16:15Z",
             "owner": "EbookFoundation",
             "repo": "free-programming-books",
-            "stars": 395131
+            "stars": 395133
           }
         },
         {
@@ -21621,7 +21621,7 @@
             "last_commit": "2026-07-29T00:39:06Z",
             "owner": "justjavac",
             "repo": "free-programming-books-zh_CN",
-            "stars": 118496
+            "stars": 118497
           }
         },
         {
@@ -22190,7 +22190,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:44:02.550Z",
+    "last_updated": "2026-08-24T14:04:56.195Z",
     "original_repository": "ExpLife0011/awesome-windows-kernel-security-development",
     "original_repository_id": 125789528,
     "original_repository_sha": "899f5a6ad12f520f4531461ae0929de4ce3292f3",
